@@ -68,6 +68,13 @@
             "link": "https://youtu.be/U0QwEZ9Jtks?si=hSqwDyLKGx899VWh&t=18s",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Ag15",
+            "link": "https://youtu.be/ByP5V_0IjOs?si=AUaX1gToeQYEW7qT",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
