@@ -43,6 +43,13 @@
             "link": "https://youtu.be/U0QwEZ9Jtks?si=hSqwDyLKGx899VWh&t=4m34s",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "KarachiAirport",
+            "link": "https://youtu.be/owBXBVwJWQ0?si=a1iNvE8I3H6GicJx",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
