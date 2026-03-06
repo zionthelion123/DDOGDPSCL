@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "ZionTheLion",
+            "link": "https://youtu.be/Lvl8RXKPrCM",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }
