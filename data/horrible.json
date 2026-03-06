@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "ExtremeSpe98",
+            "link": "https://www.youtube.com/watch?v=sGnttqOie90&t=3m5s",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
