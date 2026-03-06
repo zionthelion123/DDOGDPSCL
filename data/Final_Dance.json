@@ -61,6 +61,12 @@
             "link": "https://www.youtube.com/watch?v=bPefHxbnXkc&t=1m53s",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "NadoGD",
+            "link": "https://www.youtube.com/watch?v=w4mYCepljjk",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
