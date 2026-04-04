@@ -1,0 +1,18 @@
+{
+    "id": 00000000,
+    "name": "Level Name",
+    "author": "Creator Name",
+    "creators": [],
+    "verifier": "Verifier Name",
+    "verification": "https://youtu.be/...",
+    "percentToQualify": 100,
+    "password": "None",
+    "records": [
+        {
+            "user": "Player Name",
+            "link": "https://youtu.be/...",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
