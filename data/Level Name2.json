@@ -1,13 +1,11 @@
-[
-    {
-        "id": 1,
-        "name": "Level Name2",
-        "author": "Your Name",
-        "creators": [],
-        "verifier": "Your Name",
-        "verification": "https://youtu.be/dQw4w9WgXcQ",
-        "percentToQualify": 100,
-        "password": "None",
-        "records": []
-    }
-]
+{
+    "id": 1,
+    "name": "Level Name2",
+    "author": "Your Name",
+    "creators": [],
+    "verifier": "Your Name",
+    "verification": "https://youtu.be/dQw4w9WgXcQ",
+    "percentToQualify": 100,
+    "password": "None",
+    "records": []
+}
