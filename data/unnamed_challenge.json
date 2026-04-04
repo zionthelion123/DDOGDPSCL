@@ -1,0 +1,36 @@
+{
+    "id": 10537,
+    "name": "Unnamed Challenge",
+    "author": "Abca",
+    "creators": [],
+    "verifier": "Abca",
+    "verification": "https://youtu.be/MQgYpMBrbEQ",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "zmanattacks24",
+            "link": "https://www.youtube.com/watch?v=SPmkUJDFwAg",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "DenDen",
+            "link": "https://youtu.be/22Rx16Akgp0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "SomeoneUnknown",
+            "link": "https://youtu.be/zJkdm-Im3ro",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Beli9002",
+            "link": "https://youtu.be/SVJdFqDIGYI?si=naKTXKFzKzxYUzTV&t=4m29s",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 10215,
+    "name": "wang",
+    "author": "WaterArch",
+    "creators": [],
+    "verifier": "WaterArch",
+    "verification": "https://youtu.be/MVY3sXxwnoA",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "ExtremeSpe98",
+            "link": "https://www.youtube.com/watch?v=sGnttqOie90&t=2m30s",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

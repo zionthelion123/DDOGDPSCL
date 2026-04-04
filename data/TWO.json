@@ -1,0 +1,60 @@
+{
+    "id": 7831,
+    "name": "TWO",
+    "author": "TurboFlash",
+    "creators": [],
+    "verifier": "TurboFlash",
+    "verification": "https://youtu.be/m-3x8SMe5bY",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "SomeoneUnknown",
+            "link": "https://youtu.be/vm-oFwN0PPc",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "WaterArch",
+            "link": "https://youtu.be/7pyhe-itjzo",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "spnv",
+            "link": "https://www.youtube.com/watch?v=0TQquyFp2lQ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "LightingFlash",
+            "link": "https://youtu.be/NZqY8ThfjUU?si=jlGXi1U-UIoVvAtO",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "cheesedude",
+            "link": "https://youtu.be/rHkPHEZQ9n0",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ExtremeSpe98",
+            "link": "https://www.youtube.com/watch?v=sGnttqOie90&t=1m4s",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Beli9002",
+            "link": "https://youtu.be/M9uR91gphmE?si=0xiTIQYmAmcaM6jL&t=3m18s",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "JustMe4422",
+            "link": "https://youtu.be/duQ6H1KIHLQ",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

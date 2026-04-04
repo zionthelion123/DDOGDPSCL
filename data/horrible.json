@@ -1,0 +1,18 @@
+{
+    "id": 8092,
+    "name": "Horrible",
+    "author": "SomeoneUnknown",
+    "creators": [],
+    "verifier": "TurboFlash",
+    "verification": "https://youtu.be/PdXxB3scu9Q",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "ExtremeSpe98",
+            "link": "https://www.youtube.com/watch?v=sGnttqOie90&t=3m5s",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": 10377,
+    "name": "super probably level",
+    "author": "trickgmd",
+    "creators": [],
+    "verifier": "trickgmd",
+    "verification": "https://youtube.com/shorts/syTH9ghbn1U?si=qvCeX81losZJjujk",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "SomeoneUnknown",
+            "link": "https://youtu.be/EtjYOI9dh90",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "WaterArch",
+            "link": "https://youtu.be/1upgUv4qNCM",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ExtremeSpe98",
+            "link": "https://www.youtube.com/watch?v=sGnttqOie90&t=5s",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Beli9002",
+            "link": "https://youtu.be/M9uR91gphmE?si=0xiTIQYmAmcaM6jL&t=2m11s",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

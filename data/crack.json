@@ -1,0 +1,24 @@
+{
+    "id": 8864,
+    "name": "crack",
+    "author": "lNooby",
+    "creators": [],
+    "verifier": "WaterArch",
+    "verification": "https://youtu.be/sk_oLyJwjHY",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "SomeoneUnknown",
+            "link": "https://youtu.be/LBb-C3DTzbI",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Beli9002",
+            "link": "https://youtu.be/M9uR91gphmE?si=0xiTIQYmAmcaM6jL&t=3m54s",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

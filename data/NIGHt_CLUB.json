@@ -1,0 +1,24 @@
+{
+    "id": 3864,
+    "name": "NIGHt CLUB",
+    "author": "TurboFlash",
+    "creators": [],
+    "verifier": "TurboFlash",
+    "verification": "https://youtu.be/pYD1oYVzApE?si=cqWFBLmrsLrsJHbg",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "SomeoneUnknown",
+            "link": "https://youtu.be/14-0Ju-kDWo",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "WaterArch",
+            "link": "https://youtu.be/MJ06wlWwaeI",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

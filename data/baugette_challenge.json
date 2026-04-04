@@ -1,0 +1,72 @@
+{
+    "id": 3283,
+    "name": "baugette challenge",
+    "author": "baugette",
+    "creators": [],
+    "verifier": "SomeoneUnknown",
+    "verification": "https://youtu.be/OTMl1RrvDQA",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "spnv",
+            "link": "https://www.youtube.com/watch?v=gMinl6FFfRY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ExtremeSpe98",
+            "link": "https://youtu.be/jjlpHxZtcsM",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "WaterArch",
+            "link": "https://youtu.be/Z-btNe0G3Ss",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "trickgmd",
+            "link": "https://youtube.com/shorts/0HiIKXL-I6E?si=HtmDfmCVKimpIjjb",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "zmanattacks24",
+            "link": "https://www.youtube.com/watch?v=SPmkUJDFwAg",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Abca",
+            "link": "https://youtu.be/75kQbqWgRtc",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "dummy",
+            "link": "https://youtu.be/MxD-JY4TYnY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "DenDen",
+            "link": "https://youtu.be/gY5S6Y9FShs",
+            "percent": 100,
+            "hz": 240
+        }, 
+        {
+            "user": "Breaddd",
+            "link": "https://youtu.be/rTRlIFWH840?si=1p6v-qL6SV7vWWJK", 
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Beli9002",
+            "link": "https://youtu.be/U0QwEZ9Jtks?si=hSqwDyLKGx899VWh&t=4m54s",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

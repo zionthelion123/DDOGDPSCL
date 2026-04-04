@@ -1,0 +1,30 @@
+{
+    "id": 7909,
+    "name": "Not Diamond Blade",
+    "author": "SomeoneUnknown",
+    "creators": [],
+    "verifier": "SomeoneUnknown",
+    "verification": "https://youtu.be/A1RsYE3QRcw",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "WaterArch",
+            "link": "https://youtu.be/LDmWVSbxbSQ",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "trickgmd",
+            "link": "https://youtube.com/shorts/gV5m4G2jP00?si=4KXNUirge8C_-bR9",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "dummy",
+            "link": "https://youtu.be/lMdDp0axiJk",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

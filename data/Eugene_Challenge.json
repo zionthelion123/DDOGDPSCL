@@ -1,0 +1,148 @@
+{
+    "id": 4286,
+    "name": "Eugene Challenge",
+    "author": "ElytraBlox",
+    "creators": [],
+    "verifier": "spnv",
+    "verification": "https://www.youtube.com/watch?v=RTBssqBmhz4",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "WaterArch",
+            "link": "https://youtu.be/f7G9S_EdWV0",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "SomeoneUnknown",
+            "link": "https://www.youtube.com/watch?v=tHCYt6ZAH48",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ExtremeSpe98",
+            "link": "https://youtu.be/lMqhzckYQXY",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "trickgmd",
+            "link": "https://youtube.com/shorts/A3oAySLot1A?si=TFrxNs2MtRdCFfdV",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Abca",
+            "link": "https://youtu.be/BX6IJF7KcQg",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "dummy",
+            "link": "https://youtu.be/XONaWc49N2Y",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "abner2008",
+            "link": "https://youtu.be/Pasl2rQ0ucw?si=DJ4_W7zPkp1OV1Er",
+            "percent": 100,
+            "hz": 90
+        },
+        {
+            "user": "Memesbro",
+            "link": "https://youtu.be/yaWaXKa9hlo&t=1m17s",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Airy",
+            "link": "https://youtu.be/4CU8ektESfo",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Lobotomy",
+            "link": "https://www.youtube.com/watch?v=O9hmbSFEZDI",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Stevenzottfo",
+            "link": "https://youtu.be/Wln8BvnETjY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Darkprism4GDPS",
+            "link": "https://www.youtube.com/watch?v=bJ7R8HGI1Kk",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
+        },
+        {
+            "user": "REALpyeep",
+            "link": "https://youtu.be/nh1qkE0SGO0",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "viper8k",
+            "link": "https://youtu.be/k9xvl5scVF4",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+        {
+            "user": "DenDen",
+            "link": "https://youtu.be/mVyrScPSwGQ&t=1m25s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "TrickyGD",
+            "link": "https://medal.tv/games/requested/clips/lR2KMeXgxrXIeQh2c?invite=cr-MSw0a2ssMzExMDA4MTMy&v=17",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Breaddd",
+            "link": "https://youtu.be/N8hUujNp7jI",
+            "percent": 100,
+            "hz": 60
+        }, 
+        {
+            "user": "TSEG",
+            "link": "https://youtu.be/nZAWfnQpPkA?si=81AGS2J7e0-yetiU ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Beli9002",
+            "link": "https://youtu.be/U0QwEZ9Jtks?si=hSqwDyLKGx899VWh",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "DeXN",
+            "link": "https://youtu.be/bPMJt8rPm2E?si=jvSXMZK7oWOj7wcu",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+        {
+            "user": "GMDPulsar",
+            "link": "https://youtu.be/wUhEMyy6hbM",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Ag15",
+            "link": "https://youtu.be/qe_hD_2GA10?si=IPBAnPIX_r_XCob6",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
+        }
+    ]
+}

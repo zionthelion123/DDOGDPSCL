@@ -1,0 +1,30 @@
+{
+    "id": 1970,
+    "name": "My Map 2",
+    "author": "Diamond",
+    "creators": [],
+    "verifier": "Diamond",
+    "verification": "https://youtu.be/96j7u3hAXf0",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "games",
+            "link": "https://www.youtube.com/watch?v=b9h3c_E66GU",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "spnv",
+            "link": "https://www.youtube.com/watch?v=tENmgHvrHcs",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "jrpresley08",
+            "link": "https://www.youtube.com/watch?v=0vf1UQl7EqY",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}

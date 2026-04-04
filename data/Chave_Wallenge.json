@@ -1,0 +1,90 @@
+{
+    "id": 4942,
+    "name": "Chave Wallenge",
+    "author": "Leafitiliy",
+    "creators": [],
+    "verifier": "Leafitiliy",
+    "verification": " ",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "spnv",
+            "link": "https://www.youtube.com/watch?v=c3AW9HWeOj0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "WaterArch",
+            "link": "https://youtu.be/Xr0wCo8lHrE",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "SomeoneUnknown",
+            "link": "https://www.youtube.com/watch?v=dYymiwvhBTQ",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ExtremeSpe98",
+            "link": "https://youtu.be/luLZ2aFEyv0",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "trickgmd",
+            "link": "https://youtube.com/shorts/0HiIKXL-I6E?si=HtmDfmCVKimpIjjb",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Abca",
+            "link": "https://www.youtube.com/watch?v=e-u5_SPjCjk",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "zmanattacks24",
+            "link": "https://www.youtube.com/watch?v=SPmkUJDFwAg",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "dummy",
+            "link": "https://youtu.be/2nGoxzqyr6s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "abner2008",
+            "link": "https://youtu.be/dqmCgdvZYxI?si=QvFia_4Kd1LgOWC1",
+            "percent": 100,
+            "hz": 90
+        },
+        {
+            "user": "Stevenzottfo",
+            "link": "https://www.youtube.com/watch?v=pLjQuz2xJdw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "DenDen",
+            "link": "https://youtu.be/b3HBF1t5sCY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Beli9002",
+            "link": "https://youtu.be/U0QwEZ9Jtks?si=hSqwDyLKGx899VWh&t=3m51s",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "GMDPulsar",
+            "link": "https://youtu.be/tI-mlzbmcPw&t=3m45s",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

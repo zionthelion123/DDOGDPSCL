@@ -1,0 +1,55 @@
+{
+    "id": 7559,
+    "name": "Robot Madness",
+    "author": "SomeoneUnknown",
+    "creators": [],
+    "verifier": "SomeoneUnknown",
+    "verification": "https://youtu.be/jOazKjvDPRg",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "trickgmd",
+            "link": "https://youtube.com/shorts/gV5m4G2jP00?si=4KXNUirge8C_-bR9",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ExtremeSpe98",
+            "link": "https://youtu.be/hMm05dNNIm0",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "abner2008",
+            "link": "https://youtu.be/2RpqjsFvUOc?si=51WYOwOWn3Ps5KTB",
+            "percent": 100,
+            "hz": 90
+        },
+        {
+            "user": "Stevenzottfo",
+            "link": "https://www.youtube.com/watch?v=pLjQuz2xJdw&t=19s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "DenDen",
+            "link": "https://youtu.be/fzJ09JfLY38",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Beli9002",
+            "link": "https://youtu.be/U0QwEZ9Jtks?si=hSqwDyLKGx899VWh&t=4m34s",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "KarachiAirport",
+            "link": "https://youtu.be/owBXBVwJWQ0?si=a1iNvE8I3H6GicJx",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        }
+    ]
+}
